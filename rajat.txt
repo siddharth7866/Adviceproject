@@ -2,3 +2,5 @@ Hi I have created the file again for practice of git through terminal
 
 
 After first commit and going to push it on repo
+
+third commit is being added
